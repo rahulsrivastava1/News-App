@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New species of ancient four-legged whale discovered in Egypt",
+            "description": "The three-metre whale was found in Egypt and has been named after Anubis, the ancient god of death.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-58340807",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E5DD/production/_120254885_yile5nm8-1.jpg",
+            "publishedAt": "2021-08-27T03:37:29.9116929Z",
+            "content": "image sourceDr Robert W. Boessenecker\r\nimage captionThe partial skeleton was found in Egypt's Western Desert\r\nScientists in Egypt have identified a new species of four-legged whale that lived around … [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Man City to face PSG in Champions League",
+            "description": "Premier League champions Manchester City will face Lionel Messi's new club Paris St-Germain in the Champions League group stage.",
+            "url": "http://www.bbc.co.uk/sport/football/58346920",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11223/production/_120297107_neymar-index.jpg",
+            "publishedAt": "2021-08-27T03:37:28.3495822Z",
+            "content": "Man City beat PSG 4-1 on aggregate in the semi-finals of the competition last season\r\nPremier League champions Manchester City have been drawn to face Paris St-Germain, RB Leipzig and Club Bruges in … [+4220 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Supreme Court: Biden eviction moratorium shot down by Supreme Court",
+            "description": "The US Supreme Court ruled 6-3 to end Covid-era protections for renters facing eviction.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58351798",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D73B/production/_120299055_gettyimages-1234654253.jpg",
+            "publishedAt": "2021-08-27T03:37:21.8199571Z",
+            "content": "image captionAbout 3.5 million Americans said they face eviction in the next two months\r\nThe US Supreme Court has ruled to allow evictions to resume across the country.\r\nIt blocked the Biden administ… [+1659 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Apple chief executive Tim Cook gets $750m payout",
+            "description": "The award of more than five million Apple shares comes as Mr Cook marks a decade as the firm's boss.",
+            "url": "http://www.bbc.co.uk/news/business-58352098",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A1B7/production/_120299314_tv068626477.jpg",
+            "publishedAt": "2021-08-27T03:22:21.8591321Z",
+            "content": "image captionMr Cook's payout was part of a deal he struck when he took over from co-founder Steve Jobs\r\nApple chief executive Tim Cook has received more than five million shares in the technology gi… [+1867 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Vaccine complications dwarfed by virus risks",
+            "description": "Researchers says despite stroke and clotting risks, Covid vaccines have substantial benefits.",
+            "url": "http://www.bbc.co.uk/news/health-58347434",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C6FD/production/_118214905_jj-1200-gettyimages-460714185.jpg",
+            "publishedAt": "2021-08-27T02:07:23.3831936Z",
+            "content": "A major review of vaccines suggests the AstraZeneca jab does raise the risk of blood clots and another serious condition that can cause bleeding.\r\nBut the study found the risk of such problems follow… [+1962 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nigeria: Gunmen free kidnapped schoolchildren",
+            "description": "The students from an Islamic school in Tegina were abducted by gunmen last May.",
+            "url": "http://www.bbc.co.uk/news/world-africa-58351793",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14883/production/_120299048_gettyimages-1233243759.jpg",
+            "publishedAt": "2021-08-27T01:07:21.8757257Z",
+            "content": "image captionThe children were taken from an Islamic school in Tegina, Niger state\r\nGunmen in Nigeria have freed a number of pupils who were kidnapped from an Islamic school in May, according to thei… [+1458 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: Biden vows to hunt down Kabul attackers",
+            "description": "Twin blasts near Kabul airport targeted people desperate to flee the country after the Taliban takeover.",
+            "url": "http://www.bbc.co.uk/news/live/world-58279900",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2021-08-27T00:07:37.8985619Z",
+            "content": "Hospitals in Kabul have been treating scores of people injured in the twin blasts on Thursday. \r\nAmong them is the Kabul Surgical Centre, run by the international medical charity Emergency. \r\n Emerge… [+769 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: Biden vows to complete evacuations despite airport attack",
+            "description": "Joe Biden says the Kabul airlift will go on, after bombings which killed 60, including 12 US troops.",
+            "url": "http://www.bbc.co.uk/news/world-asia-58351056",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/112F5/production/_120298307_gettyimages-1234877793.jpg",
+            "publishedAt": "2021-08-26T22:52:21.9054079Z",
+            "content": "President Joe Biden says the US airlift from Kabul will continue despite a jihadist attack that killed over 60 people including 12 US service members.\r\n\"We must complete this mission and we will,\" he… [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid-19: Florida doctor 'offered parents mask exemption letters for students'",
+            "description": "The Florida doctor reportedly offered the medical letters for pupils in schools with mask rules.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58346126",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/87E1/production/_120258743_gettyimages-1234744613.jpg",
+            "publishedAt": "2021-08-26T17:22:20.505871Z",
+            "content": "image captionA pupil wears a mask in a Miami-Dade County school\r\nA Florida doctor has been removed from his hospital job amid reports that he offered parents medical letters to circumvent school mask… [+2371 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kabul airport bomb attack leaves many casualties",
+            "description": "US officials also say there were reports of gunfire following the blast.",
+            "url": "http://www.bbc.co.uk/news/world-asia-58348598",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E3F/production/_120274630_p09t99y4.jpg",
+            "publishedAt": "2021-08-26T16:22:21.9588727Z",
+            "content": "A bomb has exploded near the perimeter of Kabul airport in Afghanistan, with reports of multiple casualties.\r\nUS officials also say there were reports of gunfire following the blast."
+        }
+    ]
+}
